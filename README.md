@@ -1,3 +1,5 @@
+<h1>Hello World</h1>
+
 # Django Calculator Project
 
 Brief description of your project using Python Django.
@@ -9,10 +11,6 @@ Brief description of your project using Python Django.
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
